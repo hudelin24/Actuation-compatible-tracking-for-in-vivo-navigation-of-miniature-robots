@@ -23,8 +23,8 @@ Then, install the following packages:
 Finally, build the MagTrackTransformer codebase by running:
 
 ```
-git clone https://github.com/hudelin24/AI-driven-actuation-compatible-tracking-for-autonomously-navigating-miniature-robots-in-vivo
-cd AI-driven-actuation-compatible-tracking-for-autonomously-navigating-miniature-robots-in-vivo
+git clone https://github.com/hudelin24/Actuation-compatible-tracking-for-in-vivo-navigation-of-miniature-robots
+cd Actuation-compatible-tracking-for-in-vivo-navigation-of-miniature-robots
 ```
 # Usage
 ## Data Preparation
